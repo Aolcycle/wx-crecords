@@ -1,6 +1,6 @@
-# wx-crecords
+# 微信聊天记录报告统计工具
 
-An Electron application with Vue and TypeScript
+一个DEMO！不是成品项目，仅供参考和学习！教程在Wiki里。如果对你有帮助请点一个Stars :)
 
 ## Recommended IDE Setup
 
